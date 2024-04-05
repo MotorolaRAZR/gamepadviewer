@@ -1,10 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="35" viewBox="0 0 56 35">
-  <defs>
-    <style>
-      .cls-1 {
-        opacity: 0.8;
-      }
-    </style>
-  </defs>
-  <image class="cls-1" width="56" height="35" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAjCAYAAADBl8lGAAABTUlEQVRYhd2ZzRGCMBBGPzNeLcAGtAAasACtg7sUwFiANqMF2AAFSAMWYANOmKwT/hISEJJ9JxgY2McmEHZXeKBJAiADsGsdmZ8LgPuYu64b+ycAeQBiBMXiLSm07SQwOSJXD94LXTBbTMGOtyQJJoHMORNekiR4nC3McThLkuAhMBETTpJCDc3NIqH6M1hSCu4DlbAxSFIKbhcP1R+rpIjg7WnDKCkinH9d9EpyyCDRKcklg0RLUhhPj5OaJEdB6JLN3yVOVH9GXDNInDkLfgCknAVvAEqugr9aDkfBWqFKqLHKhVYVTgqWXOXAKIO99VMOGTQWh6Xge954JsVa+ZaCr/i8KgaV9WmIxjYPB/cs6Dv4/G88k+LUkCHBdo8pTJy7TSRYRPA29Wql6Uu167TxTIp3n1AXLNSFQmNUE7S52JYXSpVsCIzr8AL4AtHfNsrol8ckAAAAAElFTkSuQmCC"/>
+  <image width="52" height="35" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAjCAYAAADbqynIAAACH0lEQVRYhd3ZTahMYRzH8c8dV8hbSomFlIXyliyVhZIspWwopLChbJRE8pLcbNS1QQllpWRhISlWN3byVhZKFl6K5EbXW5f+03M0Tfdec869M3NmvpuZznme5/y+85yn85/n9LitlinYh2OYqT2cxgn8KHL1Sbb++z4dfTiaxNrFWnzFIwznzVCp+dyO/W0UqeUMdqMnb8dMaB6ONC1eMc5jW96elfQrrMOCkohkRLaL2JS301RsaWq04kzDZaxvdIRMaGMJZTLm4CrWNNI4hFYkqTITy+EaVjUitKzkMhmL00wtGatRCC1saazxsTKtqUWjjRJCSztEJiPW0gXMH+lkCM1uS6zxsSE9p+bWjxJCyztMJmMzztZPSAjNamus8bETJ1MdWqXSpAu1kqg/D2cFdTcISUIH0NtbgjATRVTog/EH7ycmd4eTT91yywVDUZl3k9BxPOwWodiHOIff3SDUn4SqmyohNNj+TIW5kjZ1vmUDhNCzzvOochMH8aX2YKX+QIdwN+0ffqyPG0IvOkxmAHvxbqSTIfSm9ZkK8wS78Hq0AULoefk9qrzCDrwcq1EIPcX31uUqxNu0s/v4f50rSeZOOT2qfE4zM9BI40zoRvNzFWIorZl7jXYOoT+4n6a1TMSbhz24lSdTVvp8wKmSCcVz5nreTpnQcNqZ7J/4XIU4hEvp7slF7QuvX3iA91iNGW2SiUIzXrxFnnzgL01aUVaBvZd5AAAAAElFTkSuQmCC"/>
 </svg>
