@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(xbox-assets/trigger.svg);
+    background: url(https://raw.githubusercontent.com/MotorolaRAZR/gamepadviewer/main/triggerlt.svg);
     opacity: 0;
 }
 
